@@ -1,0 +1,21 @@
+/* styles.css */
+
+.color1 {
+    background-color: rgba(255, 0, 0, 0.3)
+}
+
+.header {
+    font-size: 20px;
+}
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 18px;
+}
+
+#loud {
+    background-color: green;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
